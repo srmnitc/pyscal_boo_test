@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - lammps
+  - ase
+  - pyscal
